@@ -25,6 +25,9 @@ public class Runner {
 
         //remote repoda değişiklik
 
+        //dev2 nin yaptığı değişiklik
+        //...........................
+
 
 
     }
