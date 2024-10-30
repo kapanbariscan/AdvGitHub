@@ -5,4 +5,6 @@ public class Student {
 
     //techpro
     public String techpro;
+
+
 }
